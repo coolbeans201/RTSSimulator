@@ -1,4 +1,4 @@
 RTSSimulator
 ============
 
-Simulates the Regional Transit System in Gainesville, FL
+A Java GUI application that simulates the Regional Transit System in Gainesville, FL.
